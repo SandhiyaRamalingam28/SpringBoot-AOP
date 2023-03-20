@@ -1,0 +1,74 @@
+*[ERROR]-- Cannot set level 'ALL' for 'com.kgisl.springbdd'--
+*[INFO ]-- Starting SpringBootDemoApplication on KGISL060 with PID 17344 (started by sandhiya.r in D:\sandhiya\spring boot\springBootDemo)--
+*[INFO ]-- No active profile set, falling back to default profiles: default--
+*[INFO ]-- Starting service [Tomcat]--
+*[INFO ]-- Starting Servlet Engine: Apache Tomcat/9.0.13--
+*[INFO ]-- The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\app\Administrator\product\12.1.0\client_64\bin;C:\app\Administrator\product\12.1.0\client_32\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Java\jdk1.8.0_131\bin;C:\Program Files\Java\jre1.8.0_131\bin;C:\Soft\Maven 3.6\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Users\sandhiya.r\AppData\Local\Microsoft\WindowsApps;;C:\Users\sandhiya.r\AppData\Local\Programs\Microsoft VS Code\bin;.]--
+*[INFO ]-- Initializing Spring embedded WebApplicationContext--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Started SpringBootDemoApplication in 6.929 seconds (JVM running for 83.842)--
+*[INFO ]-- Initializing Spring DispatcherServlet 'dispatcherServlet'--
+*[INFO ]-- Init duration for springdoc-openapi is: 401 ms--
+*[INFO ]-- ------------------- @AfterReturning advice called -----------------------------------
+*[INFO ]--  >Returning for class : {} ; Method : {} com.kgisl.springBootDemo.service.PersonServiceImplcreatePerson--
+*[INFO ]-- > with value : {}Person [id=1, name=sandy, email=awqe, phoneNumber=124578]--
+*[INFO ]-- HikariPool-1 - Shutdown initiated...--
+*[INFO ]-- HikariPool-1 - Shutdown completed.--
+*[ERROR]-- Cannot set level 'ALL' for 'com.kgisl.springBootDemo'--
+*[INFO ]-- Starting SpringBootDemoApplication on KGISL060 with PID 17560 (started by sandhiya.r in D:\sandhiya\spring boot\springBootDemo)--
+*[INFO ]-- No active profile set, falling back to default profiles: default--
+*[INFO ]-- Starting service [Tomcat]--
+*[INFO ]-- Starting Servlet Engine: Apache Tomcat/9.0.13--
+*[INFO ]-- The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\app\Administrator\product\12.1.0\client_64\bin;C:\app\Administrator\product\12.1.0\client_32\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Java\jdk1.8.0_131\bin;C:\Program Files\Java\jre1.8.0_131\bin;C:\Soft\Maven 3.6\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Users\sandhiya.r\AppData\Local\Microsoft\WindowsApps;;C:\Users\sandhiya.r\AppData\Local\Programs\Microsoft VS Code\bin;.]--
+*[INFO ]-- Initializing Spring embedded WebApplicationContext--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Started SpringBootDemoApplication in 6.127 seconds (JVM running for 14.72)--
+*[INFO ]-- Initializing Spring DispatcherServlet 'dispatcherServlet'--
+*[INFO ]-- ------------------- @AfterReturning advice called -----------------------------------
+*[INFO ]--  >Returning for class : {} ; Method : {} com.kgisl.springBootDemo.service.PersonServiceImplcreatePerson--
+*[INFO ]-- > with value : {}Person [id=2, name=sandy, email=mhbn, phoneNumber=1245786]--
+*[INFO ]-- ------------------- @AfterReturning advice called -----------------------------------
+*[INFO ]--  >Returning for class : {} ; Method : {} com.kgisl.springBootDemo.service.PersonServiceImplgetPersonDetails--
+*[INFO ]-- > with value : {}[Person [id=1, name=sandy, email=awqe, phoneNumber=124578], Person [id=2, name=sandy, email=mhbn, phoneNumber=1245786]]--
+*[INFO ]-- HikariPool-1 - Shutdown initiated...--
+*[INFO ]-- HikariPool-1 - Shutdown completed.--
+*[ERROR]-- Cannot set level 'ALL' for 'com.kgisl.springBootDemo'--
+*[INFO ]-- Starting SpringBootDemoApplication on KGISL060 with PID 18924 (started by sandhiya.r in D:\sandhiya\spring boot\springBootDemo)--
+*[INFO ]-- No active profile set, falling back to default profiles: default--
+*[INFO ]-- Starting service [Tomcat]--
+*[INFO ]-- Starting Servlet Engine: Apache Tomcat/9.0.13--
+*[INFO ]-- The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\app\Administrator\product\12.1.0\client_64\bin;C:\app\Administrator\product\12.1.0\client_32\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Java\jdk1.8.0_131\bin;C:\Program Files\Java\jre1.8.0_131\bin;C:\Soft\Maven 3.6\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Users\sandhiya.r\AppData\Local\Microsoft\WindowsApps;;C:\Users\sandhiya.r\AppData\Local\Programs\Microsoft VS Code\bin;.]--
+*[INFO ]-- Initializing Spring embedded WebApplicationContext--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Started SpringBootDemoApplication in 5.318 seconds (JVM running for 10.618)--
+*[INFO ]-- Initializing Spring DispatcherServlet 'dispatcherServlet'--
+*[INFO ]-- Init duration for springdoc-openapi is: 250 ms--
+*[INFO ]-- -----------------------@Before advice called----------------------------------------
+*[INFO ]-- Entering in Method :  getPersonDetails--
+*[WARN ]-- Argumentsttt :  []--
+*[INFO ]-- ------------------- @AfterReturning advice called -----------------------------------
+*[INFO ]--  >Returning for class : {} ; Method : {} com.kgisl.springBootDemo.service.PersonServiceImplgetPersonDetails--
+*[INFO ]-- > with value : {}[Person [id=1, name=sandy, email=awqe, phoneNumber=124578], Person [id=2, name=sandy, email=mhbn, phoneNumber=1245786]]--
+*[INFO ]-- HikariPool-1 - Shutdown initiated...--
+*[INFO ]-- HikariPool-1 - Shutdown completed.--
+*[ERROR]-- Cannot set level 'ALL' for 'com.kgisl.springBootDemo'--
+*[INFO ]-- Starting SpringBootDemoApplication on KGISL060 with PID 1104 (started by sandhiya.r in D:\sandhiya\spring boot\springBootDemo)--
+*[INFO ]-- No active profile set, falling back to default profiles: default--
+*[INFO ]-- Starting service [Tomcat]--
+*[INFO ]-- Starting Servlet Engine: Apache Tomcat/9.0.13--
+*[INFO ]-- The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\app\Administrator\product\12.1.0\client_64\bin;C:\app\Administrator\product\12.1.0\client_32\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Java\jdk1.8.0_131\bin;C:\Program Files\Java\jre1.8.0_131\bin;C:\Soft\Maven 3.6\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Users\sandhiya.r\AppData\Local\Microsoft\WindowsApps;;C:\Users\sandhiya.r\AppData\Local\Programs\Microsoft VS Code\bin;.]--
+*[INFO ]-- Initializing Spring embedded WebApplicationContext--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Started SpringBootDemoApplication in 5.407 seconds (JVM running for 11.294)--
+*[INFO ]-- Initializing Spring DispatcherServlet 'dispatcherServlet'--
+*[INFO ]-- Init duration for springdoc-openapi is: 226 ms--
+*[INFO ]-- -----------------------@Before advice called----------------------------------------
+*[INFO ]-- Entering in Method :  getPersonDetails--
+*[WARN ]-- Argumentsttt :  []--
+*[INFO ]-- ------------------- @AfterReturning advice called -----------------------------------
+*[INFO ]--  >Returning for class : {} ; Method : {} com.kgisl.springBootDemo.service.PersonServiceImplgetPersonDetails--
+*[INFO ]-- > with value : {}[Person [id=1, name=sandy, email=awqe, phoneNumber=124578], Person [id=2, name=sandy, email=mhbn, phoneNumber=1245786]]--
